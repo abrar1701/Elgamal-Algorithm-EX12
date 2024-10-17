@@ -72,7 +72,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-10-16 162323](https://github.com/user-attachments/assets/017e296b-4a02-4700-8740-06574bce76f9)
+![image](https://github.com/user-attachments/assets/4e3ce0ed-bb2c-4d03-826a-5fde767e9921)
 
 ## RESULT:
 The program for ElGamal encryption and decryption was executed successfully. Alice and Bob exchanged an encrypted message and verified that the decrypted message matched the original message.
