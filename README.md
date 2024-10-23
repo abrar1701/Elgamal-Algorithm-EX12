@@ -1,4 +1,4 @@
-# Ex-12-Elgamal-Algorithm
+# Ex-12 | Elgamal Algorithm
 ## AIM:
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
 
